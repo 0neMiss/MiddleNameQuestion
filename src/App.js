@@ -2,7 +2,7 @@ import React from "react";
 /*
 
 This question is split into three different parts finish as much as you can with the time provided. It would be preferred if you 
-used hooks to solve this problem. Bonus points if you dont need to use useEffect.
+used hooks to solve this problem. Bonus points if you dont need to use useEffect. Extra bonus points if you write some unit tests but also not required.
 
 First, take a look at the data.js file, you will see that the App component is being passed an array of objects with some names.
 Iterate through the names and display them inside of a list tag.
